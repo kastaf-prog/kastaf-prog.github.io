@@ -1,0 +1,177 @@
+* {
+    margin: 0;
+    padding: 0;
+    /*border: 1px solid #000000;*/
+
+
+}
+body {
+
+    padding: 20px;
+    background: silver;
+}
+.container{
+    display: flex;
+    background:url("../img/white bg.png");
+    height: 705px;
+    width: 1005px;
+
+}
+.box__item{
+    align-items:center;
+}
+
+.box__item-Camera{
+    width: 393px;
+    margin-top: 65px;
+}
+.item__kp1{
+    width: 55px;
+}
+.item__kp2{
+    width: 392px;
+    border: 0px;
+}
+.kp2__imj{
+    width: 551px;
+    height: 610px;
+    margin-top: 37px;
+}
+
+
+
+.box__item-fixed {
+    height: 430px;
+    width: 140px;
+    margin-top: 175px;
+}
+
+
+.item__kp{
+    width: 100px;
+}
+
+.item__kp1 {
+    background-image: url("../img/Fujifilm Logo.png");
+    margin-left: 26px;
+    width: 99px;
+    height: 17px;
+}
+.item__img{
+    width: 135px;
+    height: 115px;
+}
+.box__item-text{
+    width: 440px;
+    margin-top: 53px;
+    margin-left: 25px;
+}
+.item__text2{
+    width: 242px;
+    margin-top: 11px;
+}
+.item__text3{
+    width: 80px;
+    margin-top: 59px;
+    margin-bottom: 11px;
+}
+.text4__column{
+    width: 275px;
+    margin-left: 17px;
+    margin-bottom: 11px;
+}
+.text5__kep{
+    width: 75px;
+}
+.item__text6{
+    width: 83px;
+}
+.text7__border{
+    width: 30px;
+
+}
+.text8__num-1{
+    width: 34px;
+}
+.text8__num-2{
+    width: 103px;
+}
+.text9__border-1{
+    width: 80px;
+}
+.text9__border-2{
+    width: 115px;
+}
+.item__text1 {
+    width: 250px;
+    font-size: 21px;
+    font-family: "Monospace";
+    color: rgb(58, 77, 92);
+    text-transform: uppercase;
+    line-height: 1.2;
+}
+.item__text5{
+    display: flex;
+    font-size: 13px;
+    margin-top: 48px;
+}
+.text5__kep1{
+    width: 75px;
+}
+.text5__kep2{
+    width: 115px;
+}
+.item__text6{
+    margin-top: 26px;
+}
+.item__text7{
+    display: flex;
+
+}
+.text7__border{
+    margin-top: 15px;
+    width: 40px;
+    height: 34px;
+    border: 1px solid #000000;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+.text7__border-123{
+    border-left-width: 0px;
+}
+.item__text8{
+    display: flex;
+    margin-top: 15px;
+}
+.text8__num-1{
+
+    font-size: 47px;
+    width: 105px;
+}
+.text8__num-2{
+    align-self:flex-end;
+}
+.item__text9{
+    margin-top: 15px;
+    display: flex;
+
+}
+.text9__border{
+    border: 1px solid #000000;
+    width: 200px;
+    height: 42px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.text9__border-1{
+    background: #37b0ae;
+    border: 0 ;
+    color: #efefef;
+}
+.text9__border-2{
+    margin-left: 27px;
+}
+
+
