@@ -1,0 +1,177 @@
+html, body {
+    margin: 0px auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+div {
+    display: inline-block;
+   /* border: solid 1px black;*/
+}
+.header {
+    width: 100%;
+    text-align: center;
+}
+.h-b-2{
+    margin-left: 30%;
+    font-size: 20.35px;
+    font-family: "Myriad Pro";
+}
+.menu {
+    color: rgb(108, 108, 108);
+}
+.menu:hover {
+    color: #6993ef;
+}
+h1 {
+    font-size: 42.35px;
+    font-family: "Myriad Pro";
+    color: rgb(0, 0, 0);
+    line-height: 1.2;
+    margin: 0px auto;
+}
+
+.sl__slide {
+	justify-content:center;
+	display: flex;
+    height: 500px;
+    width: 100%;
+background-image: url("../picture/begraunt.jpg");
+    background-size: cover;
+    text-align: center;
+
+}
+.sl__img{
+	
+    margin-right: 100px;
+	margin-top: 18px;
+    margin-bottom: 19px;
+}
+.sl__text {
+    height: 206px;
+	margin-top: 145px;
+    margin-bottom: 145px;
+}
+.s-1 {
+    margin-left: 10px;
+    position: relative;
+    top: -5px;
+}
+.sl{
+	width: 100%;
+}
+.h-1{
+    margin-top: 20px;
+}
+.x1{
+    margin-right: 30px;
+    border-bottom: solid 3px white;
+}
+.x1:hover {
+    border-bottom: solid 3px #6993ef;
+}
+
+
+.slick-slide img {
+    display: block;
+    margin-left: 13%;
+}
+.content{
+    margin-top: 65px;
+    justify-content:center;
+	display: flex;
+
+
+}
+.x9{
+    margin-left: 15%;
+}
+.text{
+    font-size: 23.35px;
+    color: rgb(80, 148, 242);
+    line-height: 0;
+    left: 893.936px;
+    top: 880.288px;
+}
+.text-2 {
+    font-size: 14.35px;
+    color: rgb(144, 144, 144);
+    line-height: 1.2;
+    left: 861.38px;
+    top: 877.926px;
+    width: 250px;
+    height: 32px;
+}
+.text-3{
+    font-size: 42.35px;
+    color: rgb(111, 113, 115);
+    line-height: 1.049;
+    left: 167.501px;
+    top: 1040.873px;
+}
+
+
+.the_cohic{
+justify-content: center;
+    display: flex;
+    text-align: center;
+ 
+}
+.text-4 {
+    font-size: 2.0em;
+    font-weight: 400;
+    color: #6F7173;
+    margin: 1em 0em;
+    line-height: 1.5em;
+}
+.text-5{
+    font-size: 1.1em;
+    font-weight: 300;
+    color: #9F9F9F;
+    margin: 1em 0em;
+    line-height: 1.5em;
+}
+.text-x{
+    width: 287px;
+    width: 474px;
+    text-align: left;
+	height: 300px;
+	margin-top: 107px;
+    
+}
+.sl__Layer-l{
+	height: 65px;
+	margin-top: 217px;
+    margin-bottom: 217px;
+	margin-right: 35px;
+}
+.sl__Layer-r{
+	height: 65px;
+	margin-top: 217px;
+    margin-bottom: 217px;
+	margin-left: 35px;
+}
+
+.x8{
+	text-align: center;
+}
+.x9{
+	text-align: center;
+}
+
+.ram_1{
+	margin-right: 79px;
+}
+
+
+
+
+
+
+
+
+
+
