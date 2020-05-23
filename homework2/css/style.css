@@ -1,0 +1,228 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Myriad Pro";
+}
+
+body {
+  background: #fcfcfc;
+  margin: auto;
+  max-width: 1366px;
+}
+
+.menu {
+  padding-left: 54px;
+  padding-right: 54px;
+  height: 70px;
+  display: flex;
+  justify-content: flex-start;
+}
+
+ul {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  text-transform: uppercase;
+  list-style-type: none;
+}
+
+li {
+  margin-right: 32px;
+}
+li a {
+  text-decoration: none;
+  color: #949494;
+}
+
+.recipes {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.recipes img {
+  width: 1258px;
+  height: 55px;
+}
+.recipes p {
+  padding-top: 27.78px;
+  padding-bottom: 27.78;
+  font-size: 34.44px;
+  color: #5b5b5b;
+  text-transform: uppercase;
+}
+
+.item {
+  display: flex;
+  width: 622px;
+  height: 308px;
+  margin-right: 7px;
+}
+.item img {
+  width: 306px;
+  height: 308px;
+}
+.item .content {
+    width: 314px;
+    height: 304px;
+    border-top: 2px solid #f2f2f2;
+    border-right: 2px solid #f2f2f2;
+    border-bottom: 2px solid #f2f2f2;
+    text-align: center;
+}
+.item .content p {
+    text-transform: none;
+    font-size: 24px;
+    line-height: 27.55px;
+    color: #3d3d3d;
+    padding-top: 18px;
+    padding-bottom: 0px;
+}
+.item .content .icons {
+  width: 20px;
+  height: 20px;
+  margin-left: 6px;
+  margin-right: 6px;
+}
+.item .content .info {
+  margin-top: 6px;
+}
+.item .content .info ul li {
+    border: 1px solid #e8e8e8;
+    border-radius: 15px;
+    width: 90px;
+    height: 30px;
+    margin-left: 16px;
+    margin-right: -11px;
+}
+.item .content .info ul p {
+    padding: 2;
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+    color: #b18a45;
+}
+.textcontent {
+  line-height: 18.73px;
+  font-size: 16px;
+}
+
+.text {
+  margin-left: 16px;
+  margin-right: 16px;
+  text-align: justify;
+}
+
+.space {
+  padding-top: 10px;
+  border-bottom: 2px solid #f2f2f2;
+}
+
+
+
+
+.container {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+
+.row {
+  display: flex;
+  padding: 10px;
+  justify-content: center;
+  align-items: stretch;
+}
+
+.soclink {
+    margin: 4px;
+    border-top: 2px solid #f2f2f2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+}
+
+.like {
+    margin-top: 16px;
+    font-size: 14px;
+    margin-left: 16px;
+    margin-right: 130px;
+    color: bcbcbc;
+    line-height: 24px 
+    color: bcbcbc;
+    
+   
+}
+.other{
+        margin-right: 16px;
+}
+.soclink img {
+    width: 24px;
+    height: 24px;
+}
+.me img {
+    padding: 0px;
+    margin-left: -290px;
+    margin-top: 260px;
+    width: 32px;
+    height: 32px;
+}
+.me{
+    height: 50px;
+}
+.me p {
+    font-size: 18px;
+    line-height: 27px;
+    margin-left: -250px;
+    margin-top: -28px;
+    color: bisque;
+    text-transform: capitalize;
+}
+
+.razdel {
+    margin-top: 40px;
+}
+
+.hot_recipes {
+    margin: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.hot_recipes img {
+  width: 1258px;
+  height: 55px;
+}
+.hot_recipes p {
+  padding-top: 27.78px;
+  padding-bottom: 27.78;
+  font-size: 34.44px;
+  color: #5b5b5b;
+  text-transform: uppercase;
+}
+.box a{
+        text-decoration: none;
+}
+.container {
+    padding-left: 30px;
+    padding-right: 30px;
+        margin: 70px;
+}
+.box_img img {
+    margin: 5px;
+  width: 306px;
+height: 490px; 
+
+}
+.box_img p{
+    font-size: 40px;
+    margin-top: -160px;
+    color: white;
+    text-align: center;
+}
+.menu_footer{
+    margin-top: 30px;
+    background: black;
+}
