@@ -1,0 +1,1139 @@
+* {
+    margin: 0;
+    padding: 0;
+    display: flex;
+   
+}
+
+.menu {
+    width: 100%;
+    padding-left: 300px;
+    padding-right: 320px;
+    height: 70px;
+    display: flex;
+    justify-content: flex-start;
+}
+.logo {
+margin-top: 16px;
+top: 14px;
+left: 250px;
+width: 154px;
+height: 45px;
+}
+
+.menu_top{
+   margin-left: 150px;
+    margin-top: 16px;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    text-transform: uppercase;
+    list-style-type: none;
+    
+}
+.nav li{
+  font-size: 20px;
+  color: #96a6a7;
+  font-family: Gotham;
+  text-transform: uppercase;
+  margin-right: 10px;  
+}
+.navigation{
+    margin-top:0px;
+    padding-left: 10px;
+    display: flex;
+    align-items: center;
+    color: #ffffff;
+    position: relative;
+  
+}
+.navigation img{
+    width: 70px;
+    height: 70px;
+    
+}
+#lupa{
+   
+  width: 23px;
+  height: 23px;
+  color: #ffffff;
+  font-family: "Font Awesome";
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 48px;
+  text-transform: uppercase;
+     position: absolute;
+    padding-left: 24px;
+  
+}
+#lupa img{
+   
+    width: 23px;
+    height: 23px;
+}
+.login {
+
+  
+  font-weight: 400;
+  line-height: 24px;
+  text-transform: uppercase;
+}
+.login-img{
+    position: relative;
+}
+.login_text{
+    color: #ffffff;
+  font-family: "Font Awesome";
+  
+   margin-top: 21px;
+   margin-left: 47px;
+    font-size: 20px;
+    position: absolute;
+}
+.pepl{
+    margin-top: 23px;
+    margin-left: 20px;
+    position: absolute;
+}
+.pepl img{
+    width: 17px;
+    height: 20px;
+}
+.main{
+display: block;
+      position: absolute;
+  top: 70px;
+  left: 305px;
+  width: 1280px;
+  height: 450px;
+}
+.main-img img{
+  position: relative;
+    width: 1279px;
+
+
+
+}
+.bg_hiden{
+       position: absolute;
+    width: 1280px;
+    height: 450px;
+    background-color: #000000;
+    opacity: 0.7;
+}
+.global_text{
+    position: absolute;
+    
+    top: 132px;
+    left: 445px;
+    width: 400;
+    height: 44;
+    text-shadow: 0 1px 1px rgba(0, 0, 1, 0.15);
+    color: #ffffff;
+    font-family: Gotham;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 48px;
+}
+.rounded_text1{
+position: absolute;
+    top: 192px;
+    left: 420px;
+    width: 200px;
+    height: 50px;
+}
+.rounded_text1 img{
+
+top: 192px;
+left: 407px;
+width: 220px;
+height: 50px;
+
+}
+.text1_1{
+margin-left: 70px;
+    margin-top: 9px;
+    position: absolute;
+    color: white;
+    font-family: "Gotham - Book";
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+  
+}
+
+
+a{
+    text-decoration: none;
+}
+
+.rounded_text2{
+position: absolute;
+top: 192px;
+left: 650px;
+   width: 200px;
+    height: 50px;
+}
+.rounded_text2 img{ 
+top: 192px;
+left: 656px;
+width: 220px;
+    height: 50px;
+
+
+}
+.text2_2{
+margin-left: 60px;
+    margin-top: 9px;
+  position: absolute;
+color: #ffffff;
+font-family: "Gotham - Book";
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+}
+
+.rounded_text_center{
+position: absolute;
+top: 265px;
+left: 407px;
+width: 470px;
+height: 55px;
+}
+.rounded_text_center img{ 
+top: 192px;
+left: 656px;
+width: 470px;
+height: 55px;
+}
+.text3_3{
+margin-left: 60px;
+margin-top: 11px;
+position: absolute;
+color: #ffffff;
+font-family: "Gotham - Book";
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+}
+
+.search_bg{
+position: absolute;
+    top: 374px;
+    left: 570px;
+    width: 150px;
+    height: 60px;
+    text-shadow: 0 1px 1px rgba(0, 0, 1, 0.15);
+
+}
+
+.search_bg img{
+
+top: 349px;
+left: 571px;
+width: 140px;
+height: 60px;
+
+}
+.text4_4{
+    margin-left: 35px;
+    margin-top: 5px;
+    position: absolute;
+    color: #ffffff;
+    font-family: "Gotham - Book";
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 48px;
+    text-transform: uppercase; 
+    
+}
+
+.line-menu{
+display: flex;
+    width: 1278;
+    height: 60px;
+    background-color: #ffffff;
+    border: 2px solid silver;
+}
+
+.nav_menu{
+   text-transform: uppercase; 
+}
+.nav_menu a{
+padding-left: 30px;
+    color: #96a6a7;
+    font-family: Gotham;
+    font-size: 12px;
+    
+
+
+}
+.nav_menu a:first-child{
+    color: #e94e38;
+}
+.nav-menu2 a{
+  
+    text-transform: uppercase; 
+}
+
+.nav-1{
+position: absolute;
+top: 462px;
+left: 515px;
+width: 115px;
+height: 35px;
+}
+.nav-1 img{
+top: 462px;
+left: 515px;
+width: 115px;
+height: 35px; 
+}
+.text11{
+    position: absolute;
+    margin-top: 9px;
+margin-left: 20px;
+  color: #e94e38;
+font-family: Gotham;
+font-size: 15px;
+    text-transform: uppercase;
+}
+
+
+
+.nav-2{
+position: absolute;
+top: 462px;
+left: 642px;
+width: 125px;
+height: 35px;
+
+}
+.nav-2 img{
+top: 462px;
+left: 642px;
+width: 125px;
+height: 35px; 
+}
+.text22{
+    position: absolute;
+    margin-top: 9px;
+margin-left: 17px;
+    color: #ffffff;
+font-family: Gotham;
+font-size: 15px;
+    text-transform: uppercase;
+}
+.text_filter{
+     position: absolute;
+    top: 460px;
+    left: 835px;
+    color: #96a6a7;
+    font-family: Gotham;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 48px;
+    text-transform: uppercase;
+}
+.home{
+    position: absolute;
+    top: 465px;
+    left: 925px;
+    width: 40px;
+    height: 40px;
+
+}
+.people{
+  position: absolute;
+top: 465px;
+left: 1000px;
+width: 40px;
+height: 40px;
+
+
+}
+.study{
+  position: absolute;
+top: 465px;
+left: 1075px;
+width: 40px;
+height: 40px;
+
+}
+.music{
+  position: absolute;
+top: 465px;
+left: 1150px;
+width: 40px;
+height: 40px;
+
+
+}
+.train{
+   
+position: absolute;
+top: 465px;
+left: 1225px;
+width: 40px;
+height: 40px;
+
+}
+
+.row{
+       margin-top: 30px;
+    width: 1279px;
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+    align-items: stretch;
+}
+.item{
+      position: relative;
+    display: flex;
+    width:210px;
+    height: 267px;
+    margin-left: 96px;
+    box-shadow: 0 1px 0 #e2dee0;
+}
+.item:first-child{
+  margin-left: 0px;  
+}
+.img_1_1{
+    position: absolute;
+    width: 210px;
+    height: 140px;
+}
+.img_1_2{
+    position: absolute;
+    width: 210px;
+    height: 140px;
+}
+.img_1_3{
+    position: absolute;
+    width: 210px;
+    height: 140px;
+}
+.img_1_4{
+    position: absolute;
+    width: 210px;
+    height: 140px;
+}
+.razdel{
+position: absolute;
+    top: 139;
+    width: 210px;
+    height: 3px;
+    background-color: #1baf5d;
+}
+.razdel1{
+    position: absolute;
+top: 139px;
+width: 210px;
+height: 3px;
+background-color: #f19e1f;
+}
+.razdel2{
+    position: absolute;
+top: 137px;
+width: 210px;
+height: 3px;
+background-color: #88499c;
+}
+
+.razdel3{
+    position: absolute;
+top: 139px;
+width: 210px;
+height: 3px;
+background-color: #1baf5d;
+}
+.icons{
+    position: absolute;
+width: 55px;
+height: 55px;
+top: 110px;
+left: 75px;
+}
+.text_item{
+    position: absolute;
+top: 164px;
+padding-left: 30px;
+    padding-right: 35px;
+width: 151px;
+height: 32px;
+color: #566375;
+font-family: Gotham;
+font-size: 17px;
+font-weight: 500;
+line-height: 18px;
+    text-align: center;
+}
+.text_sub{
+  position: absolute;
+top: 190px;
+left: 63px;
+width: 100px;
+height: 10px;
+color: #1baf5d;
+font-family: Gotham;
+font-size: 12px;
+font-weight: 500;
+line-height: 48px;
+text-transform: uppercase;  
+      text-align: center;
+}
+
+.text_sub1{
+  position: absolute;
+top: 190px;
+left: 63px;
+width: 100px;
+height: 10px;
+color: #f19e1f;
+font-family: Gotham;
+font-size: 12px;
+font-weight: 500;
+line-height: 48px;
+text-transform: uppercase;  
+      text-align: center;
+}
+
+.text_sub2{
+  position: absolute;
+top: 190px;
+left: 70px;
+width: 100px;
+height: 10px;
+color: #88499c;
+font-family: Gotham;
+font-size: 12px;
+font-weight: 500;
+line-height: 48px;
+text-transform: uppercase;  
+      text-align: center;
+}
+
+.text_sub3{
+  position: absolute;
+top: 190px;
+left: 60px;
+width: 110px;
+height: 10px;
+color: #1baf5d;
+font-family: Gotham;
+font-size: 12px;
+font-weight: 500;
+line-height: 48px;
+text-transform: uppercase;  
+}
+.star{
+position: absolute;
+    top: 230px;
+left: 60px;
+width: 56px;
+height: 11px;
+color: #f19e1f;
+font-family: "Font Awesome";
+font-size: 12px;
+font-weight: 400;
+line-height: 48px;
+text-transform: uppercase;
+
+}
+.row_box{
+   width: 1279px;
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+    align-items: stretch;
+}
+.box{
+    margin-right: 20px;
+    box-shadow: 0 1px 0 #e2dee0;
+}
+.box:last-child{
+    margin-right: 0px;
+}
+.img_box{
+    position: absolute;
+top: 853px;
+width: 455px;
+height: 120px;
+}
+.shadow{
+    position: absolute;
+top: 923px;
+width: 455px;
+height: 50px;
+background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7) 29%, rgba(0, 0, 0, 0) 100%);
+}
+
+.big_text{
+position: absolute;
+top: 930px;
+left:265;
+width: 151px;
+height: 14px;
+text-shadow: 0 1px 1px rgba(0, 0, 1, 0.15);
+color: #ffffff;
+font-family: Gotham;
+font-size: 18px;
+font-weight: 500;
+line-height: 48px;
+text-transform: uppercase;
+}
+
+
+.big_text1{
+position: absolute;
+top: 930px;
+left:755;
+width: 151px;
+height: 14px;
+text-shadow: 0 1px 1px rgba(0, 0, 1, 0.15);
+color: #ffffff;
+font-family: Gotham;
+font-size: 18px;
+font-weight: 500;
+line-height: 48px;
+text-transform: uppercase;
+}
+.razdelit{
+    position: absolute;
+top: 973px;
+left: 184px;
+width: 455px;
+height: 3px;
+background-color: #1baf5d;
+}
+.razdelit1{
+position: absolute;
+top: 973px;
+left: 660px;
+width: 455px;
+height: 3px;
+background-color: #f19e1f;
+}
+
+.home_box{
+    position: absolute;
+top: 948px;
+left: 200px;
+width: 55px;
+height: 55px;
+
+}
+
+.home_box1{
+    position: absolute;
+top: 948px;
+left: 680px;
+width: 55px;
+height: 55px;
+}
+
+.star_min{
+    position: absolute;
+top: 952px;
+left: 424px;
+width: 56px;
+height: 11px;
+color: #f19e1f;
+font-family: "Font Awesome";
+font-size: 12px;
+font-weight: 400;
+line-height: 48px;
+text-transform: uppercase;
+}
+
+.star_min1{
+    position: absolute;
+top: 952px;
+left: 898px;
+width: 56px;
+height: 11px;
+color: #f19e1f;
+font-family: "Font Awesome";
+font-size: 12px;
+font-weight: 400;
+line-height: 48px;
+text-transform: uppercase;
+}
+.big_star{
+   position: absolute;
+top: 993px;
+left: 265px;
+width: 86px;
+height: 16px;
+color: #f19e1f;
+font-family: "Font Awesome";
+font-size: 18px;
+font-weight: 400;
+line-height: 48px;
+text-transform: uppercase; 
+}
+.big_star1{
+  position: absolute;
+top: 993px;
+left: 755px;
+width: 86px;
+height: 16px;
+color: #f19e1f;
+font-family: "Font Awesome";
+font-size: 18px;
+font-weight: 400;
+line-height: 48px;
+text-transform: uppercase;  
+}
+.name{
+  position: absolute;
+top: 1015px;
+left: 267px;
+width: 61px;
+height: 13px;
+color: #566375;
+font-family: Gotham;
+font-size: 16px;
+font-weight: 700;
+line-height: 48px;
+text-transform: uppercase;  
+}
+.name1{
+ position: absolute;
+top: 1015px;
+left: 757px;
+width: 82px;
+height: 13px;
+color: #566375;
+font-family: Gotham;
+font-size: 16px;
+font-weight: 700;
+line-height: 48px;
+text-transform: uppercase;   
+}
+
+.ava{
+  position: absolute;
+  
+top: 1026px;
+left: 200px;
+width: 55px;
+height: 55px;  
+}
+.ava1{
+ position: absolute;
+ 
+top: 1026px;
+left: 685px;
+width: 55px;
+height: 55px;   
+}
+.box_texti{
+ position: absolute;
+top: 1050px;
+left: 266px;
+width: 340px;
+height: 55px;
+color: #566375;
+font-family: "Gotham - Book";
+font-size: 14px;
+font-weight: 400;
+line-height: 20px;
+
+font-family: "Gotham Book";
+font-weight: 300;
+
+font-family: Gotham;
+font-weight: 500;
+text-decoration: underline;   
+}
+.box_texti1{
+   position: absolute;
+top: 1050px;
+left: 756px;
+width: 340px;
+height: 55px;
+color: #566375;
+font-family: "Gotham - Book";
+font-size: 14px;
+font-weight: 400;
+line-height: 20px;
+
+font-family: "Gotham Book";
+font-weight: 300;
+
+font-family: Gotham;
+font-weight: 500;
+text-decoration: underline; 
+}
+.price{
+position: absolute;
+    left: 144;
+    width: 65px;
+    height: 25px;
+  
+}
+.price1{
+
+position: absolute;
+    left: 144;
+    width: 65px;
+    height: 25px;
+
+}
+.shadow_{
+  position: absolute;
+    top: 70;
+}
+.img_box_{
+    position: absolute;
+
+width: 455px;
+height: 120px;
+}
+
+.box_ {
+    left: 150;
+    box-shadow: 0 1px 0 #e2dee0;
+    position: absolute;
+width: 455px;
+height: 270px;
+box-shadow: 0 1px 0 #e2dee0;
+background-color: #ffffff;
+}
+.row_box_{
+  max-width: 1279px;
+   
+    padding-top: 30px;
+    display: flex;
+    padding-left: 527px;
+    justify-content: center;
+    align-items: stretch;
+}
+.big_text_{
+position: absolute;
+    top: 80;
+    left: 100;
+    width: 133px;
+    height: 14px;
+    text-shadow: 0 1px 1px rgba(0, 0, 1, 0.15);
+    color: #ffffff;
+    font-family: Gotham;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 48px;
+    text-transform: uppercase;
+}
+.radeli_{
+    position: absolute;
+    top: 120;
+    width: 455px;
+    height: 3px;
+    background-color: #f19e1f;
+}
+.home_{
+ position: absolute;
+    top: 90;
+    left: 20;
+    width: 55px;
+    height: 55px;
+}
+
+.star_{
+    position: absolute;
+    top: 100;
+    left: 265;
+    width: 56px;
+    height: 11px;
+    color: #f19e1f;
+    font-family: "Font Awesome";
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 48px;
+    text-transform: uppercase;
+}
+.star_big_{
+position: absolute;
+    top: 140px;
+    left: 100px;
+    width: 86px;
+    height: 16px;
+    color: #f19e1f;
+    font-family: "Font Awesome";
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 48px;
+    text-transform: uppercase;
+}
+.name_{
+margin-top: 10;
+    position: absolute;
+    top: 160px;
+    left: 105;
+    height: 13px;
+    color: #566375;
+    font-family: Gotham;
+    font-size: 16px;
+    font-weight: 700;
+ 
+    text-transform: uppercase;
+}
+.ava_{
+position: absolute;
+    top: 170;
+    left: 25;
+    width: 55px;
+    height: 55px;
+}
+.text12 {
+left: 100;
+    position: absolute;
+     top: 190;
+    width: 340px;
+    height: 55px;
+    color: #566375;
+    font-family: "Gotham - Book";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    font-family: "Gotham Book";
+    font-weight: 300;
+    font-family: Gotham;
+    font-weight: 500;
+    text-decoration: underline;
+}
+.more{
+    position: absolute;
+top: 1792px;
+left: 581px;
+width: 119px;
+height: 17px;
+color: #566375;
+font-family: Gotham;
+font-size: 18px;
+font-weight: 500;
+line-height: 48px;
+text-decoration: underline;
+
+font-family: "Gotham Medium";
+font-weight: 500;
+
+font-family: "Gotham Medium";
+font-size: 22px;
+font-weight: 500;
+
+font-family: "Font Awesome";
+font-size: 14px;
+font-weight: 400;
+}
+.line_{
+position: absolute;
+    top: 1830px;
+    left: 190px;
+    width: 980px;
+    height: 3px;
+    background-color: #e2dee0;
+}
+.offer{
+position: absolute;
+    top: 1880;
+    left: 500;
+    width: 346px;
+    height: 21px;
+    color: #566375;
+    font-family: Gotham;
+    font-size: 22px;
+    font-weight: 500;
+
+}
+.offer_{
+      position: absolute;
+    top: 40;
+    left: 13;
+    width: 252;
+    height: 15px;
+    color: #96a6a7;
+    font-family: "Gotham - Book";
+    font-size: 16px;
+    font-weight: 400;
+}
+.iconss{
+position: absolute;
+    top: 100;
+    left: -220;
+}
+.icons_{
+    margin-right: 60px;
+}
+.icons_:last-child{
+    margin-right: 0px;  
+}
+.name_offer{
+position: absolute;
+    top: 240;
+    left: 120;
+    width: 82px;
+    height: 22px;
+    color: #1baf5d;
+    font-family: Gotham;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 30px;
+}
+.elipse1{
+    position: absolute;
+    top: 320;
+    left: -240;
+    width: 62px;
+    height: 62px;
+}
+.elipse2{
+    position: absolute;
+    top: 320px;
+    left: 160;
+    width: 62px;
+    height: 62px;
+}
+.elipstext{
+    position: absolute;
+    left: 90;
+    width: 259px;
+    height: 133px;
+    color: #566375;
+    font-family: "Gotham - Book";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.elipstext1{
+    position: absolute;
+    left: 90;
+    width: 259px;
+    height: 133px;
+    color: #566375;
+    font-family: "Gotham - Book";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.footer{
+position: absolute;
+    top: 2500px;
+    left: 310;
+    width: 1295px;
+    height: 507px;
+
+}
+.subscribe{
+position: absolute;
+top: 70px;
+left: 490px;
+width: 330px;
+height: 19px;
+text-shadow: 0 1px 1px rgba(0, 0, 1, 0.15);
+color: #ffffff;
+font-family: Gotham;
+font-size: 24px;
+font-weight: 500;
+
+}
+.botton_sub{
+position: absolute;
+    top: 150;
+    left: 380;
+    width: 492px;
+    height: 60px;
+}
+.sub{
+    position: absolute;
+    top: 5;
+    left: 370;
+    width: 120px;
+    height: 50px;
+}
+.sub_t{
+position: absolute;
+    top: 20;
+    left: 40;
+    width: 147px;
+    height: 17px;
+    color: #ffffff;
+    font-family: "Gotham - Book";
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+.us{
+ position: absolute;
+    top: 300px;
+    left: 100;
+    color: #ffffff;
+    font-family: Gotham;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    text-decoration: underline;
+}
+
+.ust{
+       margin-right: 300;
+}
+.ust:last-child{
+       margin-right: 0;
+}
+.column{
+    position: absolute;
+top: 40px;
+left: 0px;
+width: 101px;
+height: 108px;
+color: #c0bebc;
+font-family: "Gotham - Book";
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+}
+.column1{
+    position: absolute;
+    top: 40px;
+    left: 390;
+    width: 101px;
+    height: 108px;
+    color: #c0bebc;
+    font-family: "Gotham - Book";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.socicons{
+    position: absolute;
+top: 40px;
+left: 770px;
+color: #ffffff;
+font-family: "Font Awesome";
+font-size: 30px;
+font-weight: 400;
+line-height: 24px;
+}
+.socic{
+    margin-right: 30px;
+}
+.socic:last-child{
+    margin-right: 0px;
+}
+.copy{
+    position: absolute;
+top: 70px;
+width: 219px;
+height: 14px;
+color: #ffffff;
+font-family: "Gotham - Book";
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+}
