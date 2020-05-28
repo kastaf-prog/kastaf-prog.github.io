@@ -604,20 +604,20 @@ line-height: 48px;
 text-transform: uppercase;
 }
 .razdelit{
-    position: absolute;
-top: 973px;
-left: 184px;
-width: 455px;
-height: 3px;
-background-color: #1baf5d;
+     position: absolute;
+    top: 973px;
+    left: 145;
+    width: 455px;
+    height: 3px;
+    background-color: #1baf5d;
 }
 .razdelit1{
-position: absolute;
-top: 973px;
-left: 660px;
-width: 455px;
-height: 3px;
-background-color: #f19e1f;
+    position: absolute;
+    top: 973px;
+    left: 700;
+    width: 455px;
+    height: 3px;
+    background-color: #f19e1f;
 }
 
 .home_box{
