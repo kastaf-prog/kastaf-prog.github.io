@@ -967,10 +967,10 @@ position: absolute;
     top: 100;
     left: -220;
 }
-.icons_{
+.iconss a{
     margin-right: 60px;
 }
-.icons_:last-child{
+.iconss a:last-child{
     margin-right: 0px;  
 }
 .name_offer{
@@ -1072,18 +1072,22 @@ position: absolute;
  position: absolute;
     top: 300px;
     left: 100;
-    color: #ffffff;
+    color: white;
     font-family: Gotham;
     font-size: 20px;
     font-weight: 500;
     line-height: 24px;
-    text-decoration: underline;
-}
+  
 
+}
+.ust a {
+         text-decoration: none;
+}
 .ust{
        margin-right: 300;
+   color: #ffffff;
 }
-.ust:last-child{
+.ust a:last-child{
        margin-right: 0;
 }
 .column{
@@ -1120,10 +1124,10 @@ font-size: 30px;
 font-weight: 400;
 line-height: 24px;
 }
-.socic{
+.socicons a{
     margin-right: 30px;
 }
-.socic:last-child{
+.socicons a:last-child{
     margin-right: 0px;
 }
 .copy{
