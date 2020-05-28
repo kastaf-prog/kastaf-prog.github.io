@@ -553,7 +553,7 @@ text-transform: uppercase;
     align-items: stretch;
 }
 .box{
-    margin-right: 20px;
+     margin-right: 100;
     box-shadow: 0 1px 0 #e2dee0;
 }
 .box:last-child{
