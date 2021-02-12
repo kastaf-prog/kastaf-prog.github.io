@@ -1,0 +1,236 @@
+body{
+
+    width: 1500px;
+    height: 1833px;
+}
+.header {
+    width: 1500px;
+    height: 48px;
+    display: flex;
+    padding: 10px;
+}
+.menu{
+    text-align: right;
+    padding:10px;
+    margin-left: 250px;
+
+}
+.menu li {
+    list-style: none;
+    display: inline;
+    margin: 30px 20px;
+}
+.menu a{
+    text-decoration: none;
+    font-size: 30px;
+    color: #000000;
+
+
+}
+.menu a:hover{
+
+    width: 190px;
+    height: 70px;
+    font-family: "Segoe WPN";
+    background-color: #373737;
+    color: white;
+    transition: 1s;
+    border-radius: 10px;
+}
+.logo {
+ padding: 10px;
+}
+.logo img {
+    padding: 10px;
+    margin-left: 300px;
+
+
+}
+.layer img{
+    width: 1500px;
+    height: 1px;
+    margin-left: 50px;
+}
+
+.main_text {
+
+    font-size: 33px;
+    margin: 150px;
+    padding-left: 180px;
+    color: #5d5d5d;
+    font-family: "Segoe WP";
+    font-style: normal;
+    text-align: left;
+
+}
+.main_text img {
+
+    border: 5px solid #373737;
+    background-color: #373737;
+}
+
+.hero{
+    display: flex;
+}
+
+.main_photo{
+    margin-top: 150px;
+}
+
+.top_main {
+    display: flex;
+    margin-left: 328px;
+}
+.top_text p{
+
+    font-size: 30px;
+    width: 277px;
+    margin-left: 38px;
+    margin-top: 0px;
+
+}
+.bottom_text{
+
+    width: 318px;
+
+    color: #848484;
+    font-family: "Segoe WP";
+    font-size: 10px;
+    margin-left: 38px;
+    text-align: left;
+
+
+}
+.top_text img{
+
+    margin-left: 358px;
+}
+
+#add{
+
+    width: 319px;
+    height: 249px;
+    margin-left: 38px;
+
+}
+.block{
+   width: 214px;
+    height: 250px;
+    margin-left: 325px;
+
+}
+.middle_main {
+    display: flex;
+}
+.title{
+    font-family: "Segoe WP";
+    width: 153px;
+    margin-top: 20px;
+    font-size: 26px;
+
+    height: 55px;
+}
+.data_by{
+    font-size: 14px;
+    color: #848484;
+}
+.text{
+
+    width: 213px;
+    height: 115px;
+    color: #848484;
+    font-family: "Segoe WP";
+    font-size: 14px;
+
+}
+.block2 {
+    height: 250px;
+    width: 214px;
+    margin-left: 20px;
+}
+.title2{
+    font-family: "Segoe WP";
+    width: 153px;
+    margin-top: 20px;
+    font-size: 22px;
+
+    height: 55px;
+}
+.add2{
+
+    width: 319px;
+    height: 271px;
+    margin-left: 90px;
+}
+.add3 img{
+    position: absolute;
+}
+.add3{
+    margin-top: 30px;
+    width: 319px;
+    height: 271px;
+    margin-left: 90px;
+    position: relative;
+}
+input{
+    margin-top: 150px;
+    margin-left: 80px;
+    position: relative;
+}
+.input2{
+    position: relative;
+    margin-top: 10px;
+}
+.signmeup{
+    position: relative;
+    top: 210px;
+    left: 80px;
+
+}
+.footer{
+    display: flex;
+    position: relative;
+    width: 1528px;
+    height: 109px;
+    margin-left: 170px;
+}
+.footer img{
+    width: 1528px;
+    height: 70px;
+    position: absolute;
+    top: 30px;
+}
+.footer p {
+    position: relative;
+
+    width: 245px;
+    height: 16px;
+    color: #ffffff;
+    font-family: "Segoe WP";
+    font-size: 16px;
+    font-weight: 300;
+    top: 50px;
+    margin-left: 600px;
+}
+
+.footer_menu img:nth-child(1) {
+    width: 28px;
+    height: 27px;
+    margin-left: 310px;
+    margin-top: 20px;
+
+}
+.footer_menu img:nth-child(2) {
+    width: 28px;
+    height: 27px;
+    margin-left: 350px;
+    margin-top: 20px;
+
+}
+.footer_menu img:nth-child(3) {
+    width: 28px;
+    height: 27px;
+    margin-left: 390px;
+    margin-top: 20px;
+
+}
